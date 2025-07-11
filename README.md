@@ -24,7 +24,8 @@ The dashboard provides a clear and intuitive view of key COVID-19 metrics across
 
 ## 📸 Preview
 
-![Dashboard Preview](<img width="1279" height="716" alt="Image" src="https://github.com/user-attachments/assets/1262690a-a195-4dac-be16-e044c655ec18" />)
+![Dashboard Preview]
+(<img width="1279" height="716" alt="Image" src="https://github.com/user-attachments/assets/1262690a-a195-4dac-be16-e044c655ec18" />)
 
 ## 🙋‍♂️ Author
 
