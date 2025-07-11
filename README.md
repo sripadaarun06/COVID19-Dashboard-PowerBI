@@ -7,7 +7,7 @@ The dashboard provides a clear and intuitive view of key COVID-19 metrics across
 - 📌 **KPIs**: Total Cases, Total Deaths, Death Rate, and Vaccinated Count
 - 🗺️ **Geo Map**: Country-wise COVID-19 case distribution
 - 📈 **Line Charts**: Trends in new cases and vaccination over time
-- 🧭 **Interactive Filters**: Continent, Country, and Date Range slicers
+- 🧭 **Interactive Filters**: Country, and Date Range slicers
 - 📊 **Donut & Bar Charts**: Visual breakdowns by region and vaccination stats
 - 🧑‍🎓 **Inspired Design**: Dashboard layout inspired by modern job analytics dashboards
 
